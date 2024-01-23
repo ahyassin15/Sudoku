@@ -1,0 +1,23 @@
+/* style buttons */
+.button {
+	
+	/* change background color to light beige */
+	 -fx-background-color: #f5f5dc;
+	 
+}
+
+/* style button when hovered with mouse */
+.button:hover {
+   
+    /* change background color to white */
+     -fx-background-color: #ecf0f1;
+   
+}
+
+/* style pane */
+.base_pane {
+
+	/* change background color to sea green */
+	 -fx-background-color: #466a6e;
+
+}
